@@ -8,7 +8,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
-    border-top: 6px #e46f00 solid !important;
+    border-top: 6px #0066ff solid !important;
     font-size: 16px;
 }
 
@@ -36,7 +36,7 @@ body {
 }
 
 .btn-primary {
-    background-color: #e46f00 !important
+    background-color: #0066ff !important
 }
 .btn-secondary {
     background-color: #2C2F33 !important
@@ -45,9 +45,9 @@ body {
 .heading {
     padding: 200px 20px !important;
     color: #fff !important;
-    background-image: url("https://mavish.sirv.com/img.png") !important;
+    background-image: url("https://mavish.sirv.com/imgmavi.png") !important;
     background-position: bottom !important;
-    background-size: 135% !important;
+    background-size: 130% !important;
     background-repeat: no-repeat !important;
 }
 
@@ -69,7 +69,7 @@ body {
 
 .features {
     text-align: center !important;
-    background: #e46f00 !important;
+    background: #0066ff !important;
     padding: 60px 50px !important
 }
 .features .title {
@@ -95,7 +95,7 @@ body {
 .card-title {
     font-size: 28px !important;
     font-weight: 600 !important;
-    color: #e46f00 !important;
+    color: #0066ff !important;
 }
 
 .statistics {
@@ -123,7 +123,7 @@ body {
 
 .start {
     text-align: center !important;
-    background: #e46f00 !important;
+    background: #0066ff !important;
     padding: 60px 50px !important
 }
 
@@ -139,7 +139,7 @@ body {
 
 .footer {
     text-align: center !important;
-    background: #e46f00 !important;
+    background: #0066ff !important;
     padding: 15px 10px !important;
     color: #23272A;
     font-size: 14px !important
