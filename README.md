@@ -1,1 +1,1 @@
-# mavi.codes
+# personal website
