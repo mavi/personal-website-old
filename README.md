@@ -1,16 +1,16 @@
 # @mavi/personal-website-old,
 
-## First Section
+- First Section
 <p align="center">
     <img src="image1.png" alt="Example image of Website." />
 </p>
 
-## About Me Section
+- About Me
 <p align="center">
-    <img src="image1.png" alt="Example image of Website." />
+    <img src="image2.png" alt="Example image of Website." />
 </p>
 
-## Gallery/Portfolio Section
+- Gallery/Portfolio
 <p align="center">
-    <img src="image1.png" alt="Example image of Website." />
+    <img src="image3.png" alt="Example image of Website." />
 </p>
