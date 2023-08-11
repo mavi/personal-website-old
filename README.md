@@ -1,4 +1,4 @@
-# @mavi/personal-website-old,
+# @mavi/personal-website-old
 
 - First Section
 <p align="center">
