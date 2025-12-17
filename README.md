@@ -5,6 +5,19 @@
 
 Source codes of my personal website that is no longer active. This repository is kept for archival purposes.
 
+## **🖼️ Screenshots**
+
+### **Home Page**
+![Home Page](image1.png)
+
+### **About Me Section**
+![Details Section](image2.png)
+
+### **Portfolio Section**
+![Preview](image3.png)
+
+---
+
 ## **🚀 Features**
 
 - **Frontend Core:** Built with simple and clean ``HTML5`` and ``CSS3``.
@@ -27,7 +40,7 @@ Follow these steps to view the website locally:
 
 - ``css/`` - Styling files.
 - ``fonts/`` - Custom typography.
-- ``images/`` - Project screenshots and icons.
+- ``images/`` - Project assets and icons.
 - ``js/`` - Frontend scripts.
 - ``index.html`` - Main website file.
 
